@@ -1,5 +1,5 @@
 # linear-algebra
-gram Schmidt Process \n
-Identifying special matrices \n
-pagerank algorithm \n
-reflecting bear \n
+gram Schmidt Process, 
+Identifying special matrices, 
+pagerank algorithm, 
+reflecting bear
